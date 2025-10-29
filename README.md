@@ -13,11 +13,10 @@
 ---
 
 ### 🔥 What I’m Currently Working On  
-- 📱 **AI-powered Resume & Cover Letter Generator**  
-- 🐈 **iOS app for cat lovers** — post cute cats & read cat facts  
-- 🗂️ **Syllabus → Study Plan Converter** web app  
-- ☁️ Learning more about **cloud & scalable systems** (AWS, containers)
-
+	•	🏥 Patient Management System — Microservices architecture + AWS
+	•	🔗 URL Shortener — fast redirects & clean analytics
+	•	🛒 Shopping Cart Backend — Spring Boot, Security, & JWT course project
+	•	☁️ Continuing to grow in cloud & scalable systems (AWS, containers)
 ---
 
 ### 🧰 Tech Stack
