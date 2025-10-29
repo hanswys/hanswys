@@ -13,10 +13,10 @@
 ---
 
 ### 🔥 What I’m Currently Working On  
-	•	🏥 Patient Management System — Microservices architecture + AWS
-	•	🔗 URL Shortener — fast redirects & clean analytics
-	•	🛒 Shopping Cart Backend — Spring Boot, Security, & JWT course project
-	•	☁️ Continuing to grow in cloud & scalable systems (AWS, containers)
+- 🏥 Patient Management System — Microservices architecture + AWS
+- 🔗 URL Shortener — fast redirects & clean analytics
+- 🛒 Shopping Cart Backend — Spring Boot, Security, & JWT course project
+- ☁️ Continuing to grow in cloud & scalable systems (AWS, containers)
 ---
 
 ### 🧰 Tech Stack
