@@ -39,12 +39,6 @@
 
 ---
 
-### 📊 My GitHub Stats  
-[![Hans’s GitHub stats](https://github-readme-stats.vercel.app/api?username=hanswys&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanswys&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 📫 Connect With Me  
 <p>
 <a href="https://www.linkedin.com/in/yong-shen-hans-wong/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
