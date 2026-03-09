@@ -1,46 +1,60 @@
-# ✨ Hi, I'm Hans!  
-🚀 Web Developer & Computer Science Student @ UCO  
-💡 I love building modern, intuitive, and scalable web applications.
+# 🚀 Hi, I'm Hans (Yong Shen)!
+
+**Software Engineer @ PostCo** | US-Educated, Malaysia-Based
+
+I’m a software engineer passionate about building scalable, resilient systems that solve real-world logistical and business challenges. Currently, I'm focused on honing my craft in the **Ruby on Rails** ecosystem and cloud-native architecture.
 
 ---
 
-### 👨‍💻 About Me  
-- 🎓 Finishing my **Computer Science degree** (Summer 2025)  
-- 💼 Teaching Assistant helping students learn & build cool things  
-- 🏀 Outside coding: basketball, cats, and exploring new tech tools  
-- 🎯 Goal: **Software Engineer building user-centered products**
+### 👨‍💻 Professional Background
+
+* 💼 **Software Engineer at PostCo**: Developing robust solutions for the logistics and returns space.
+* 🎓 **B.S. in Computer Science**: University of Central Oklahoma (UCO).
+* 🌏 **Global Perspective**: Malaysian-born with 4+ years of academic and professional exposure in the United States, bringing a cross-cultural approach to engineering and collaboration.
+* 🏀 **Beyond the Code**: Gym, basketball, cat-parenting, and experimenting with autonomous AI agents.
 
 ---
 
-### 🔥 What I’m Currently Working On  
-- 🏥 Patient Management System — Microservices architecture + AWS
-- 🔗 URL Shortener — fast redirects & clean analytics
-- 🛒 Shopping Cart Backend — Spring Boot, Security, & JWT course project
-- ☁️ Continuing to grow in cloud & scalable systems (AWS, containers)
+### 🔥 Technical Focus & Featured Projects
+
+* **Logistics & Scale**: Currently contributing to high-availability systems at PostCo.
+* **Microservices Architecture**: Built a **Patient Management System** using microservices and AWS to handle decoupled data processing.
+* **Secure Backends**: Developed a **Shopping Cart API** featuring JWT authentication and Spring Security best practices.
+* **Cloud Infrastructure**: Deepening expertise in **AWS** (Lambda, EC2, DynamoDB) and containerization via **Docker**.
+
 ---
 
 ### 🧰 Tech Stack
 
-#### 💻 Languages
+#### 💻 Languages & Frameworks
+
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,java,cpp,python,sql" />
+<img src="https://skillicons.dev/icons?i=ruby,js,ts,java,cpp,python,sql" />
+</p>
+
+
+
+#### ⚙️ Backend & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,redis,postgres,dynamodb,git,github,docker,aws" />
 </p>
 
 #### 🌐 Frontend
+
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
-#### ⚙️ Backend / Tools
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,postgres,dynamodb,git,github,docker,aws" />
-</p>
-
 ---
 
-### 📫 Connect With Me  
+### 📫 Connect With Me
+
 <p>
-<a href="https://www.linkedin.com/in/yong-shen-hans-wong/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/yong-shen-wong/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://dev.to/hanswys"><img src="https://skillicons.dev/icons?i=devto" /></a>
+<a href="https://x.com/hansthewong"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
-💬 *Always happy to collaborate on interesting projects or chat about tech!*
+💬 *I’m always open to discussing system design, Ruby on Rails optimizations, or the latest in the KL tech scene.*
+
