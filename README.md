@@ -1,60 +1,49 @@
-# 🚀 Hi, I'm Hans (Yong Shen)!
+# Hi, I'm Hans (Wong Yong Shen) 👋
 
-**Software Engineer @ PostCo** | US-Educated, Malaysia-Based
+**Software Engineer @ PostCo** · Malaysia 🇲🇾 · US-Alumni 🇺🇸
 
-I’m a software engineer passionate about building scalable, resilient systems that solve real-world logistical and business challenges. Currently, I'm focused on honing my craft in the **Ruby on Rails** ecosystem and cloud-native architecture.
-
----
-
-### 👨‍💻 Professional Background
-
-* 💼 **Software Engineer at PostCo**: Developing robust solutions for the logistics and returns space.
-* 🎓 **B.S. in Computer Science**: University of Central Oklahoma (UCO).
-* 🌏 **Global Perspective**: Malaysian-born with 4+ years of academic and professional exposure in the United States, bringing a cross-cultural approach to engineering and collaboration.
-* 🏀 **Beyond the Code**: Gym, basketball, cat-parenting, and experimenting with autonomous AI agents.
+Building returns infrastructure for retailers. 
 
 ---
 
-### 🔥 Technical Focus & Featured Projects
+### 📊 Activity & Stats
 
-* **Logistics & Scale**: Currently contributing to high-availability systems at PostCo.
-* **Microservices Architecture**: Built a **Patient Management System** using microservices and AWS to handle decoupled data processing.
-* **Secure Backends**: Developed a **Shopping Cart API** featuring JWT authentication and Spring Security best practices.
-* **Cloud Infrastructure**: Deepening expertise in **AWS** (Lambda, EC2, DynamoDB) and containerization via **Docker**.
-
----
-
-### 🧰 Tech Stack
-
-#### 💻 Languages & Frameworks
+[![Hans's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hanswys&theme=tokyo-night&hide_border=true)](https://github.com/hanswys)
 
 <p>
-<img src="https://skillicons.dev/icons?i=ruby,js,ts,java,cpp,python,sql" />
-</p>
-
-
-
-#### ⚙️ Backend & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,redis,postgres,dynamodb,git,github,docker,aws" />
-</p>
-
-#### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanswys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=hanswys&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 👨‍💻 What I'm doing
+
+- 💼 **Engineer at PostCo** — building tools that retailers actually use to handle returns at scale
+- 🎓 **B.S. Computer Science**, University of Central Oklahoma
+- 🌏 **KL-based, US-trained** — 4+ years in the States, now back home
+- 🏋️ **Outside work** — gym, bouldering, and cats
+
+---
+
+### 🧰 Stack
+
+**Languages & Frameworks**
+<p><img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,java,cpp,python,sql" /></p>
+
+**Backend & Infra**
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,spring,redis,postgres,dynamodb,git,github,docker,aws" /></p>
+
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" /></p>
+
+---
+
+### 📫 Find me
 
 <p>
-<a href="https://www.linkedin.com/in/yong-shen-wong/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://dev.to/hanswys"><img src="https://skillicons.dev/icons?i=devto" /></a>
-<a href="https://x.com/hansthewong"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://www.linkedin.com/in/yong-shen-wong/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://dev.to/hanswys"><img src="https://skillicons.dev/icons?i=devto" /></a>
 </p>
 
-💬 *I’m always open to discussing system design, Ruby on Rails optimizations, or the latest in the KL tech scene.*
-
+💬 Always down to talk system design, Rails optimizations, or the KL tech scene.
