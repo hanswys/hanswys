@@ -11,7 +11,6 @@ Building returns infrastructure for retailers.
 [![Hans's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hanswys&theme=tokyo-night&hide_border=true)](https://github.com/hanswys)
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanswys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="180em" src="https://streak-stats.demolab.com?user=hanswys&theme=tokyonight&hide_border=true" />
 </p>
 
